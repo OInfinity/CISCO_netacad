@@ -5,3 +5,7 @@ Work according to the knowledge base. Do not attempt to solve issues that are be
 2. PC doesn’t turn on, no lights, no fan.
 3. Printer is connected but not printing.
 - Software
+1. Outlook Keeps Asking for Password.
+2. User Cannot Open PDF Attachments.
+3. Excel Crashes When Opening Files.
+4. User Can’t Access a Shared Drive
